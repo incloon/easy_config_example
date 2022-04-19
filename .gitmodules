@@ -1,0 +1,3 @@
+[submodule "easy_config"]
+	path = easy_config
+	url = https://github.com/incloon/easy_config.git
